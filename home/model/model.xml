@@ -1,0 +1,1 @@
+<project name="Project3" threads="1" pubsub="auto" heartbeat-interval="1" luaroot="@ESP_PROJECT_OUTPUT@/luaroot"><metadata><meta id="layout">{}</meta></metadata><contqueries><contquery name="cq1"/></contqueries></project>
